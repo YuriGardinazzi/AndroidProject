@@ -1,1 +1,2 @@
-# AndroidProject
+# Progetto Android OpenGL
+## Yuri Gardinazzi 
